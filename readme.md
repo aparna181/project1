@@ -1,0 +1,7 @@
+-- to check the files in a directory we used linux called is -a
+-- git status is to check whether or not we have added all the files to the following area
+-- git log is to check the commits we performed till now
+-- git branch to check the branch you are checking in
+-- git branch branch_name - you will create a new branch
+-- git checkout branch_name - to move to a different branch
+-- git merge branch_name -- to merge the branches  
